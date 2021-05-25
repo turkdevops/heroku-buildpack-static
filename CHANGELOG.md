@@ -3,6 +3,10 @@
 ## Unreleased
 
 
+## v7 (2021-03-09)
+
+* [#202](https://github.com/heroku/heroku-buildpack-static/pull/202) Output a helpful error message when no `static.json` is found
+
 ## v6 (2020-12-09)
 
 * [#190](https://github.com/heroku/heroku-buildpack-static/pull/190) Update nginx for Heroku-16 and Heroku-18 to 1.19.0
